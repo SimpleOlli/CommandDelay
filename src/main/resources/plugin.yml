@@ -1,0 +1,6 @@
+main: de.simpleolli.delaycommand.DelayCommand
+name: CommandDelay
+author: SimpleOlli
+version: 1.0.0
+commands:
+  fly:
